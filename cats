@@ -15,12 +15,19 @@
 </ul>
 </nav>
   <h2>Clever Techy Kitteh Humor</h2>
-<img src="https://digitalsynopsis.com/wp-content/uploads/2015/03/web-designer-developer-jokes-humour-funny-34.jpg" alt="kitten">
+  <figure>
+    <img src="https://digitalsynopsis.com/wp-content/uploads/2015/03/web-designer-developer-jokes-humour-funny-34.jpg" alt="kitten">
+  </figure>
 
   <h2>I'm Not Fat, I'm Just a Little Husky</h2>
-<img src="http://funny-pics.co/wp-content/uploads/funny-husky-image.jpg" alt="husky">
+  <figure>
+    <img src="http://funny-pics.co/wp-content/uploads/funny-husky-image.jpg" alt="husky">
+  </figure>
   <h2>Smart Mirror</h2>
-  <img src="https://i.ytimg.com/vi/NugkdXjqIno/maxresdefault.jpg" alt="mir" />
+  <figure>
+    <img src="https://i.ytimg.com/vi/NugkdXjqIno/maxresdefault.jpg" alt="mir" />
+  </figure>
 
 </body>
 </html>
+
